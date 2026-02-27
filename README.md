@@ -264,7 +264,7 @@ Message Mapping
 ```
 PokemonAPI.xsd
 ```
-📦 [Download do PokemonAPI.xsd – Integração com API Pokémon][(https://github.com/souzajean/PokemonAPIMapping/blob/main/ArquivosXSD/PokemonAPI.xsd)]
+📦 [Download do PokemonAPI.xsd – Integração com API Pokémon]https://github.com/souzajean/PokemonAPIMapping/blob/main/ArquivosXSD/PokemonAPI.xsd
 
 
 
