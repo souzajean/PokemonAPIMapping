@@ -1,9 +1,9 @@
-# PokemonAPI
+# PokemonAPI Mapping
 SAP BTP CPI - PokemonAPI Mapping
 
 ![Capa](imagens/capa-linkedin.png)
 
-📌 Descrição do iFlow – Integração com API Pokémon
+📌 Descrição do iFlow – Integração com API Pokémon Mapping
 
 Este iFlow tem como objetivo consumir dados da API pública do Pokémon, transformar e validar as informações retornadas, direcionando o processamento conforme o Pokémon selecionado.
 
