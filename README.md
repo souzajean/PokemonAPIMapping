@@ -274,7 +274,7 @@ PokemonAPI.xsd
 ![Fluxo](imagens/Screenshot_26.png)
 
 
-### Selecionando o PokemonAPI.xsd
+### Selecionando o PokemonAPI_Results.xsd
 ![Fluxo](imagens/Screenshot_27.png)
 ```
 PokemonAPI_Results.xsd
