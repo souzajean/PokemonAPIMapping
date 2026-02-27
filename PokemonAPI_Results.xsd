@@ -1,0 +1,37 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ResultsPokemon">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:byte" name="id"/>
+        <xs:element type="xs:string" name="name"/>
+        <xs:element name="pokemon">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name"/>
+              <xs:element type="xs:string" name="url"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="versions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="generation-ix">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="scarlet-violet">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="front_default"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
