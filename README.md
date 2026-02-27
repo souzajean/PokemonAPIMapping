@@ -309,6 +309,7 @@ RouterPokemon
 ### Configurando o Content Modifier
 ![Fluxo](imagens/Screenshot_33.png)
 ```
+Content Modifier - SetContentType
 Message Header - create - Content-Type - application/xml
 ```
 
@@ -320,14 +321,14 @@ Message Header - create - Content-Type - application/xml
 ### Renomeando Content Modifier
 ![Fluxo](imagens/Screenshot_35.png)
 ```
-setBody
+SetContentType
 ```
 
 ### Configurando o Content Modifier
 ![Fluxo](imagens/Screenshot_36.png)
 ```
 Type: Constant
-Body: Escolheu o Pokemon errado
+Message Header - create - Content-Type - application/xml
 ```
 
 
