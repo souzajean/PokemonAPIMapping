@@ -372,7 +372,7 @@ Route Default
 
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – Integração com API PokemonAPIMapping](https://github.com/souzajean/PokemonAPIMapping/blob/main/Package/Integracao_com_API_Pokemon_Mapping.zip)
+📦 [Download do iFlow – Integração com API PokemonAPIMapping](https://github.com/souzajean/PokemonAPIMapping/raw/main/Package/Integracao_com_API_Pokemon_Mapping.zip)
 
 > O arquivo pode ser importado diretamente no SAP Integration Suite (CPI).
 
