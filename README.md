@@ -356,13 +356,13 @@ Type: Constant
 Body: Escolheu o Pokemon errado
 ```
 
-### Renomendo a rota para Default
+### Renomeando a rota para Default
 ![Fluxo](imagens/Screenshot_41.png)
 ```
 Route Default
 ```
 
-### Renomendo a rota para Default
+### Renomeando a rota para Default
 ![Fluxo](imagens/Screenshot_42.png)
 
 
