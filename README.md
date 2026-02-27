@@ -267,13 +267,24 @@ PokemonAPI.xsd
 📦 [Download do PokemonAPI.xsd – Integração com API Pokémon](https://github.com/souzajean/PokemonAPIMapping/blob/main/ArquivosXSD/PokemonAPI.xsd)
 
 
-
-### Adicionando o End Message
+### Adicionando o Mapping
 ![Fluxo](imagens/Screenshot_25.png)
+
+### Selecionando o PokemonAPI.xsd
+![Fluxo](imagens/Screenshot_26.png)
+
+
+### Selecionando o PokemonAPI.xsd
+![Fluxo](imagens/Screenshot_27.png)
+```
+PokemonAPI_Results.xsd
+```
+📦 [Download do PokemonAPI_Results.xsd – Integração com API Pokémon]{https://github.com/souzajean/PokemonAPIMapping/blob/main/ArquivosXSD/PokemonAPI_Results.xsd)
+
 
 
 ### Conectando o Router com End
-![Fluxo](imagens/Screenshot_26.png)
+![Fluxo](imagens/Screenshot_28.png)
 ```
 Router
 ```
