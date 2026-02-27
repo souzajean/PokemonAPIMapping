@@ -367,13 +367,12 @@ Route Default
 
 
 ### Configuração no Postman
-Adicionar a URL do Endpoint
 ![Fluxo](imagens/Screenshot_43.png)
 
 
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – Integração com API Pokémon](https://github.com/souzajean/PokemonAPI/raw/main/Package/Integracao_com_API_Pokemon.zip)
+📦 [Download do iFlow – Integração com API PokemonAPIMapping](https://github.com/souzajean/PokemonAPIMapping/blob/main/Package/Integracao_com_API_Pokemon_Mapping.zip)
 
 > O arquivo pode ser importado diretamente no SAP Integration Suite (CPI).
 
