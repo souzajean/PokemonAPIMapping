@@ -15,7 +15,7 @@ O iFlow realiza uma chamada HTTP à API pública do Pokémon para obter os dados
 Conversão de Formato (JSON → XML)
 A resposta da API, originalmente em formato JSON, é convertida para XML, permitindo melhor manipulação dos dados dentro do SAP CPI.
 
-Definição de Propriedades do Pokémon
+Mapeamento dos dados do Pokémon
 Após a conversão, o iFlow extrai informações relevantes (como ID ou nome do Pokémon) e as armazena em propriedades da mensagem para uso posterior no fluxo.
 
 Roteamento por Condição (Router)
