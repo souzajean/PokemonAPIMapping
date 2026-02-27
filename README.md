@@ -332,12 +332,43 @@ Message Header - create - Content-Type - application/xml
 ```
 
 
-### Save e Deploy
+### Roteando o caminho
 ![Fluxo](imagens/Screenshot_37.png)
+```
+Router
+```
+
+### Adicionando o Content Modifier
+![Fluxo](imagens/Screenshot_38.png)
+```
+Router
+```
+### Renomeando o Content Modifier
+![Fluxo](imagens/Screenshot_38.png)
+```
+setBody
+```
+
+### Adicionando a mensagem no corpo, caso a rota não seja selecionado corretamente
+![Fluxo](imagens/Screenshot_40.png)
+```
+Type: Constant
+Body: Escolheu o Pokemon errado
+```
+
+### Renomendo a rota para Default
+![Fluxo](imagens/Screenshot_41.png)
+```
+Route Default
+```
+
+### Renomendo a rota para Default
+![Fluxo](imagens/Screenshot_42.png)
+
 
 ### Configuração no Postman
 Adicionar a URL do Endpoint
-![Fluxo](imagens/Screenshot_38.png)
+![Fluxo](imagens/Screenshot_43.png)
 
 
 ## 📦 Exemplo prático – iFlow para baixar
