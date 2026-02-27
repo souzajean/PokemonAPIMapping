@@ -282,32 +282,27 @@ PokemonAPI_Results.xsd
 📦 [Download do PokemonAPI_Results.xsd – Integração com API Pokémon](https://github.com/souzajean/PokemonAPIMapping/blob/main/ArquivosXSD/PokemonAPI_Results.xsd)
 
 
-### Conectando o Router com End
+### Marcando o indices para mapear todos de uma vez
 ![Fluxo](imagens/Screenshot_28.png)
-```
-Router
-```
 
 
-### Renomeando a conexão do Router
+### Verificar se mapeou corretamente todos os campos
 ![Fluxo](imagens/Screenshot_29.png)
-```
-Router Default
-```
 
 
-### Marcando com Default
+
+### Adicionando o Router
 ![Fluxo](imagens/Screenshot_30.png)
 
 
-### Adicionar o Content Modifier
+### Adicionar o End Message
 ![Fluxo](imagens/Screenshot_31.png)
 
 
-### Renomeando Content Modifier
+### Renomeando Router
 ![Fluxo](imagens/Screenshot_32.png)
 ```
-SetContentType
+RouterPokemon
 ```
 
 
