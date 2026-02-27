@@ -262,9 +262,9 @@ Message Mapping
 ### Renomeando a conexão do Router
 ![Fluxo](imagens/Screenshot_24.png)
 ```
-RoutePokemon
+PokemonAPI.xsd
 ```
-
+📦 [Download do PokemonAPI.xsd – Integração com API Pokémon](https://github.com/souzajean/PokemonAPI/raw/main/Package/Integracao_com_API_Pokemon.zip)
 
 ### Adicionando o End Message
 ![Fluxo](imagens/Screenshot_25.png)
